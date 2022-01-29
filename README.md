@@ -1,2 +1,2 @@
 # botFTC
-Bot de discord feito em javascript usando nodejs, discordjs, e puppeteer
+Bot de discord feito em javascript usando nodejs, discordjs e puppeteer
